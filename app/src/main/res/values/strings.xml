@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CursApp</string>
+    <string name="salesicon">Sales</string>
+    <string name="contex_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_text">Главное</string>
+    <string name="logo_of_app1">Courses</string>
+    <string name="logo_of_app2">App</string>
+    <string name="todo">TODO</string>
+    <string name="course_start_date">Старт обучения</string>
+    <string name="course_level">Уровень</string>
+    <string name="course_dec">а программу вы изучите язык Java, научитесь работать с базой данных,
+        а также изучите язык SQL для запросов к базам данных. </string>
+
+
+</resources>
